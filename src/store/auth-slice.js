@@ -13,6 +13,6 @@ const authSlice = createSlice({
   },
 });
 
-export const AuthActions = authSlice.actions;
+export const authActions = authSlice.actions;
 
 export default authSlice;
